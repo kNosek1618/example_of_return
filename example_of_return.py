@@ -1,4 +1,5 @@
-
+#This function returns the absolute
+#value of the entered number
 
 def absolute_value(num):
 
